@@ -1,5 +1,5 @@
 # IFMXFL
-Influence Function for model explainability for federated learning
+Influence Function for model explainability for federated learning [In progress. Paper coming soon]
 
 # Loans Prediction
 
